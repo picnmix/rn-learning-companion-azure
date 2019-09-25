@@ -25,6 +25,9 @@
   "dependencies": {
     "@nozbe/watermelondb": "^0.14.0",
     "@rocket.chat/sdk": "1.0.0-alpha.31",
+    "appcenter": "2.3.0",
+    "appcenter-analytics": "2.3.0",
+    "appcenter-crashes": "2.3.0",
     "bugsnag-react-native": "^2.22.3",
     "commonmark": "git+https://github.com/RocketChat/commonmark.js.git",
     "commonmark-react-renderer": "git+https://github.com/RocketChat/commonmark-react-renderer.git",
