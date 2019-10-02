@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 
-pwd 
-echo Jake was here abouts
+cd .\android\
+./gradlew clean
+cd ../
