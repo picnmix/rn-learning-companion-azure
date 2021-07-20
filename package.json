@@ -46,7 +46,7 @@
     "moment": "^2.24.0",
     "prop-types": "15.7.2",
     "react": "16.8.6",
-    "react-native": "0.60.4",
+    "react-native": "0.62.3",
     "react-native-action-sheet": "^2.2.0",
     "react-native-audio": "^4.3.0",
     "react-native-background-timer": "2.1.1",
